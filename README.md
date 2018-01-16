@@ -1,1 +1,1 @@
-# guided-chomre
+# Guided for Google Chrome
